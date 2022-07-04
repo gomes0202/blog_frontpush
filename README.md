@@ -1,3 +1,5 @@
+Esse material não é de minha autoria, foi codado apenas como aprendizado do curso de Front-end Push, do professor Násser Yousef<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
