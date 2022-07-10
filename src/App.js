@@ -1,7 +1,15 @@
+import Header from './Components/Header';
+import Article from './Components/Article';
+import Post from './Components/Post';
+
+
 
 function App() {
   return (
-    <h1>Meu Blog</h1>
+    <>
+      <Header />
+      <Article />
+    </>
   );
 }
 
